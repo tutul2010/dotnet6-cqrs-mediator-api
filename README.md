@@ -21,3 +21,4 @@ and try to rebuild on top of the solution. </br>
 >>Update-Database </br>
 
 6)Database migration should succeed and then  run the WebApi project with debug mode with Visual studio 2022 IDE .It opens with  swagger page-api endpoints  at the browser. </br>
+Thanks @mghoreishi for your starting points.
