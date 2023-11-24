@@ -7,7 +7,11 @@ If you like this project, learn something or you are using it in your applicatio
 
 Description
 ----------------------------------------------------------------------------------------------------------------------
-Code repo with .NET Core Web API application implemented with CQRS, Mediator Pattern approach with  Domain Driven Design.
+Code repo with .NET Core Web API application implemented with CQRS, Mediator Pattern approach with Domain Driven Design.
+It has 3 branch as below
+Master(default) => .NET Core Web API with CQRS-Mediator design pattern implementation with Ef Core. It can run with Visual studio 2022 IDE with sql server database
+Main -
+Docker-support => .NET Core Web API with CQRS-Mediator design pattern implementation with Ef Core and docker support.
 
 # Code setup Instructions for *master* branch  at Local dev system 
 ----------------------------------------------------------------------------------------------------------------------
