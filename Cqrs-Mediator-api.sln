@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio Version 16
-VisualStudioVersion = 16.0.31205.134
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34309.116
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{EE0FFFD6-5A51-456D-A6A7-BD83B19CE31D}"
 EndProject
@@ -13,16 +13,17 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "03. Commons", "03. Commons"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "04. Endpoints", "04. Endpoints", "{FEF53FE2-4D01-4FB5-8C06-D11160961C93}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebApi", "src\04. Endpoints\WebApi\WebApi.csproj", "{B4C27C02-E92B-4784-9684-5A59875D268E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WebApi", "src\04. Endpoints\WebApi\WebApi.csproj", "{B4C27C02-E92B-4784-9684-5A59875D268E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SampleProject.Core.ApplicationService", "src\01.Core\SampleProject.Core.ApplicationService\SampleProject.Core.ApplicationService.csproj", "{88805F93-4E18-4548-A094-80F762EA2B58}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SampleProject.Core.ApplicationService", "src\01.Core\SampleProject.Core.ApplicationService\SampleProject.Core.ApplicationService.csproj", "{88805F93-4E18-4548-A094-80F762EA2B58}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SampleProject.Core.Domain", "src\01.Core\SampleProject.Core.Domain\SampleProject.Core.Domain.csproj", "{2B8BCDBD-A8F5-4141-85C9-3DD5E0AED2C3}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SampleProject.Core.Domain", "src\01.Core\SampleProject.Core.Domain\SampleProject.Core.Domain.csproj", "{2B8BCDBD-A8F5-4141-85C9-3DD5E0AED2C3}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Data", "Data", "{DCAE4A13-0712-4ECF-A0FB-8DA407D8AB39}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SampleProject.Core.SqlServer", "SampleProject.Core.SqlServer\SampleProject.Core.SqlServer.csproj", "{E3754A6B-0B7B-4F01-AFD3-E2D9E63C6488}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SampleProject.Core.SqlServer", "SampleProject.Core.SqlServer\SampleProject.Core.SqlServer.csproj", "{E3754A6B-0B7B-4F01-AFD3-E2D9E63C6488}"
 EndProject
+
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -45,6 +46,7 @@ Global
 		{E3754A6B-0B7B-4F01-AFD3-E2D9E63C6488}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E3754A6B-0B7B-4F01-AFD3-E2D9E63C6488}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E3754A6B-0B7B-4F01-AFD3-E2D9E63C6488}.Release|Any CPU.Build.0 = Release|Any CPU
+	
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
