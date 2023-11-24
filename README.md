@@ -17,7 +17,7 @@ It has 3 branches as below</br>
 ----------------------------------------------------------------------------------------------------------------------
 
 1)setup azdo pipeline(.yaml file)  and build/deploy the webapi app and sql database to azure app service with docker and azure sql database  => **WIP**</br>
-2)setup github action (.yaml file)  and build/deploy the webapi app and sql database to azure AKS service with docker and azure sql database => **WIP**</br>
+2)setup github action (.yaml file)  and build/deploy the webapi app and sql database to azure AKS service  and azure sql database => **WIP**</br>
 
  Work Done
 ----------------------------------------------------------------------------------------------------------------------
