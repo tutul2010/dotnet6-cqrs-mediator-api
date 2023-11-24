@@ -1,5 +1,5 @@
 # dotnet-Core-cqrs-mediator-api - docker support in windows 10 enviroment
-A .NET Core Web API CQRS-Mediator design patterns implementation with Ef Core,on top of  Clean Architecture at .NET6.
+A .NET Core Web API CQRS-Mediator design patterns implementation with Ef Core,on top of  Clean Architecture at .NET6 with docker support at windows 10 enviroment.
 
 Give a Star! ⭐
 ----------------------------------------------------------------------------------------------------------------------
