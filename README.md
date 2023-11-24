@@ -7,16 +7,16 @@ If you like this project, learn something or you are using it in your applicatio
 
 Description
 ----------------------------------------------------------------------------------------------------------------------
-Code repo with .NET Core Web API application implemented with CQRS, Mediator Pattern approach with Domain Driven Design.
-It has 3 branch as below
-Master(default) => .NET Core Web API with CQRS-Mediator design pattern implementation with Ef Core. It can run with Visual studio 2022 IDE with sql server database
-Main -
-Docker-support => .NET Core Web API with CQRS-Mediator design pattern implementation with Ef Core and docker support.
+Code repo with .NET Core Web API application implemented with CQRS, Mediator Pattern approach with Domain Driven Design.</br>
+It has 3 branch as below</br>
+Master(default) => .NET Core Web API with CQRS-Mediator design pattern implementation with Ef Core. It can run with Visual studio 2022 IDE with sql server database.</br>
+Main - </br>
+Docker-support => .NET Core Web API with CQRS-Mediator design pattern implementation with Ef Core and docker support.</br>
 
 # Code setup Instructions for *master* branch  at Local dev system 
 ----------------------------------------------------------------------------------------------------------------------
 1)First ,Make sure to install Visual Studio 2022 IDE and .NET6 Frmwrk version on the Local system. </br>
-2)Clone this code repo to the local system by using  a CMD like git clone <git repo url> .</br>
+2)Clone this code repo to the local system by using  a CMD like git clone <git repo url> . </br>
 3)After cloning the code repo ,Open .sln file with Visual studio 2022 IDE and make the  WebApi project as startup project  .Please  update the sql database connection string at "WebApi/appsetting.json" file 
  as below  (key value) and try to rebuild at  top of the solution.  </br>
  
