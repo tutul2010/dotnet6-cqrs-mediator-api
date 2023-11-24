@@ -1,5 +1,5 @@
 # dotnet-Core-cqrs-mediator-api
-A .NET Core Web API CQRS implementation with Ef Core,Mediator, Cqrs and DDD using Clean Architecture at .NET6.
+A .NET Core Web API with CQRS-Mediator design pattern implementation with Ef Core. It can run with Visual studio 2022 IDE with sql server database.
 
 Give a Star! ⭐
 ----------------------------------------------------------------------------------------------------------------------
@@ -9,9 +9,9 @@ Description
 ----------------------------------------------------------------------------------------------------------------------
 Code repo with .NET Core Web API application implemented with CQRS, Mediator Pattern approach with Domain Driven Design.</br>
 It has 3 branch as below</br>
-Master(default) => .NET Core Web API with CQRS-Mediator design pattern implementation with Ef Core. It can run with Visual studio 2022 IDE with sql server database.</br>
-Main - </br>
-Docker-support => .NET Core Web API with CQRS-Mediator design pattern implementation with Ef Core and docker support.</br>
+1)Master(default) => .NET Core Web API with CQRS-Mediator design pattern implementation with Ef Core. It can run with Visual studio 2022 IDE with sql server database.</br>
+2)Main - </br>
+3)Docker-support => Details of  docker support  on .NET Core Web API with CQRS-Mediator design pattern (master branch code repo) .</br>
 
 # Code setup Instructions for *master* branch  at Local dev system 
 ----------------------------------------------------------------------------------------------------------------------
